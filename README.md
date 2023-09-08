@@ -1,8 +1,2 @@
-# App Plus
-App Plus Responsive One Page Template
+# MMW Mega Mini War
 
-template: https://themewagon.github.io/applus/
-
-github: https://github.com/franhuetos/mmw/settings
-
-web: https://franhuetos.github.io/mmw/
