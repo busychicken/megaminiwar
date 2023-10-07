@@ -675,6 +675,10 @@ footer {
     width: 25%;
 }
 
+.promo-section{
+    padding: 0 0 54px 0;
+}
+
 .promo-column img {
     display: block;
     margin-bottom: 23px;
